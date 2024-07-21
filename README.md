@@ -11,3 +11,6 @@ The sub-questions we decided to explore are:
 To address this question comprehensively, the project leverages a rich dataset sourced from Kaggle, encompassing detailed information on shopping trends, including review ratings, purchase amounts, item categories, and demographic data. This dataset offers a robust foundation for analysis, as it includes a diverse array of variables that enable a multifaceted exploration of consumer behavior.
 This visualization project is particularly tailored for economics students, giving them a unique opportunity to research consumer behavior using real-world data. By working with these ground-level visualizations, students can gain hands-on experience in data analysis and interpretation, fostering a deeper understanding of the economic factors influencing consumer decisions.
 In summary, this project aims to answer critical questions about consumer behavior and can serve as a valuable educational tool for budding economists. It equips them with the skills necessary to analyze and interpret extensive datasets.
+
+### Visualization link:
+https://visualtrends-a081045613a0.herokuapp.com/
